@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mim
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Olá! Meu nome é Cibele e sou estudante do primeiro semestre de Ciência de Dados na Universidade Federal de Viçosa (UFV).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Estou construindo uma base sólida em estatística, programação (Python e R) e análise de dados. Tenho interesse especial em como dados podem ser usados para embasar decisões — algo que já comecei a explorar em projetos acadêmicos durante o semestre.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sinta-se à vontade para conhecer um pouco do meu trabalho navegando pelo site!
